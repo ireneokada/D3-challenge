@@ -6,3 +6,5 @@ In creating the scatter plot I leaned on methods used in Lesson 16/D3 as referen
 
 The goal was to create a scatter representation of poverty vs healthcare participation/access and label the circles by state (abbreviation)
 
+
+
